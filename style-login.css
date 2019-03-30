@@ -1,0 +1,8 @@
+#login h1 a:focus, .login h1 a:focus {
+	box-shadow: none;
+}
+
+#loginform {
+	border-radius: 10px;
+	box-shadow: 0 0 12px #767676;
+}
